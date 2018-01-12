@@ -35,11 +35,6 @@ Run bundler to get dependencies
 $ bundle install
 ```
 
-Run the solution
-```
-$ ruby helltriangle_execute.rb
-```
-
 Running test
 ```
 $ rspec
